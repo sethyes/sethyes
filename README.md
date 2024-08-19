@@ -10,7 +10,7 @@
 I'm a self-taught software developer with over five years experience on high impact software engineering teams.<br>
 I've also held positions as a systems engineer, network engineer, DBA, and tech lead. My education is in electrical engineering. <br><br> 
 Most of my previous work has been closed source. I'm working to open source more of my work. <br>
-Poke me <a href="https://github.com/sethyes/sethyes/issues/new"><b>here</b></a> or <a href="mailto:seth@sethsmith.net"><b>email</b></a> me.
+<a href="https://github.com/sethyes/sethyes/issues/new"><b>Provide a suggestion</b></a>, <a href="mailto:seth@sethsmith.net"><b>email</b></a> me, or visit <a href="https://sethsmith.net">my website</a>.
 
 <br>
 <i>TODO: Add learnings section. Add redirection to website for users seeking personal info.</i> 
