@@ -3,32 +3,27 @@
 </div>
 
 <div align="center">
-<img src="img/welcome-to-sethyes-github.gif" alt="Welcome!" width="800"/>
+<img src="img/welcome-to-sethyes-github.gif" alt="Welcome!" width="800"/><br>
+<i>2019 Calymnos, Greece. visit <a href="https://sethsmith.net/">sethsmith.net</a> to see more!</i>
 </div>
 
-<div align="center">
-I'm a self-taught software developer with over five years experience on high impact software engineering teams.<br>
+<div align="center"><br>
+I'm a community-taught software developer with over five years experience leading high impact projects for multiple software engineering teams.<br>
 I've also held positions as a systems engineer, network engineer, DBA, and tech lead. My education is in electrical engineering. <br><br> 
-Most of my previous work has been closed source. I'm working to open source more of my work. <br>
-<a href="https://github.com/sethyes/sethyes/issues/new"><b>Provide a suggestion</b></a>, <a href="mailto:seth@sethsmith.net"><b>email</b></a> me, or visit <a href="https://sethsmith.net"><b>my website</b></a>.
-
-<br>
-<i>TODO: Add learnings section. Add redirection to website for users seeking personal info.</i> 
-<br>
-<br>
 </div>
 
 <div align="center">
+Most of my previous work has been closed source, or was created before I used GitHub (>10 years). <br>
+I'm working to open source more of my work moving forward. <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sethyes&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="Seth's Github Stats">
-
-<!-- (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethyes&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="Seth's Github Stats"> -->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethyes&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="Seth's Most Used Languages">
 </br>
 
 ---
   [![HitCount](https://hits.dwyl.com/sethyes/sethyes.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sethyes/sethyes)
   <br>
+<a href="https://github.com/sethyes/sethyes/issues/new"><b>Provide a suggestion</b></a>, <a href="mailto:seth@sethsmith.net"><b>email</b></a> me, or visit <a href="https://sethsmith.net"><b>my website</b></a>.
   <br>
 <i>Follow me around the web:</i><br>
 
