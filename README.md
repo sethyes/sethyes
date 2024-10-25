@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"><br>
-I'm a community-taught software developer with over five years experience leading high impact projects for multiple software engineering teams.<br>
+I'm a community-taught software developer with over ten years experience leading high impact projects for multiple software engineering teams.<br>
 I've also held positions as a systems engineer, network engineer, DBA, and tech lead. My education is in electrical engineering. <br><br> 
 </div>
 
